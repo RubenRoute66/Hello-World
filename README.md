@@ -1,3 +1,3 @@
 # Hello-World
 
-Planning world domination...
+World Domination succeeded..
